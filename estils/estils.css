@@ -709,6 +709,7 @@ body {
     max-width: 50rem;
     display: grid;
     gap: var(--spacing-64);  
+    padding: var(--spacing-24);
 }
 
 /*@media (min-width: 62rem) {
