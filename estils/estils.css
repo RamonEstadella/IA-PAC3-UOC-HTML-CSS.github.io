@@ -600,6 +600,7 @@ body {
     font-size: .8125rem;
     padding: var(--spacing-24);
     line-height: 1.25rem;
+    margin-bottom: var(--spacing-16);
 }
 
 
