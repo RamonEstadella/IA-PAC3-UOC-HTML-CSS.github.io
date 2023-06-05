@@ -454,6 +454,7 @@ body {
     color: var(--color-black);
     text-align: center;
     margin-bottom: var(--spacing-16);  
+    padding: var(--spacing-24);
 
 }
 
