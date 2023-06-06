@@ -726,6 +726,7 @@ body {
         max-width: 50rem;
         grid-template-columns: var(--width-main-content-desktop);
         justify-content: center;
+        padding: 0px;
     }
 }
 
@@ -733,6 +734,7 @@ body {
     .article-page {
         max-width: 50rem;
         grid-template-columns: 2fr 1.5fr;
+        padding: 0px;
     }
 }
 
