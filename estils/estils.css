@@ -603,7 +603,10 @@ body {
     margin-bottom: var(--spacing-16);
 }
 
-
+.cinema__iframe{
+    width: 100%;
+    aspect-ratio: 16/9;
+}
 
 /* Despacho */
 
